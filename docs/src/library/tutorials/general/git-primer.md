@@ -1,6 +1,6 @@
 # Git Primer
 
-This tutorial will show you how to use Git to safely implement new features or changes into a project, without any risk of adversely affecting the primary code base, or main branch. We will cover some concepts about git and version control systems to allow suers to get up to speed quickly and start contributing straight away.
+This tutorial will show you how to use Git to safely implement new features or changes into a project, without any risk of adversely affecting the primary code base, or main branch. We will cover some concepts about git and version control systems to allow users to get up to speed quickly and start contributing straight away.
 
 ## Basic branching in Git
 
